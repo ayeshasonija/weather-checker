@@ -3,7 +3,7 @@ document.write(
       "</body>"
   );
 
-var userWeather = prompt("Enter Your Area's Weather  " + "(including: cloudy, winter, sunny, summer, windy, raint, autumn, spring, stormy, blizzard, cold, drizzle, fog, frost, hail, hurricane, lightning, monsoon, partly, snowy, tornado, hot, mild.)") 
+var userWeather = prompt("Enter Your Area's Weather  " + "(including: cloudy, winter, sunny, summer, windy, rainy, autumn, spring, stormy, blizzard, cold, drizzle, fog, frost, hail, hurricane, lightning, monsoon, partly, snowy, tornado, hot, mild.)") 
 
 if( userWeather ==="cloudy"){
     document.write(
